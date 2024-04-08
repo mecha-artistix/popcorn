@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
+import App from "./AppCopy.jsx";
 import "./index.css";
 // import StarRating from "./components/StarRating.jsx";
 
